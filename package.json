@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://VeronikaKras.github.io/project-Creators2023",
+  "homepage": "https://SKhrebtan.github.io/bookshelf-js-teamproject",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-Creators2023/"
+    "build": "parcel build src/*.html --public-url /bookshelf-js-teamproject/"
   },
   "repository": {
     "type": "git",
