@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://SKhrebtan.github.io/bookshelf-js-teamproject",
+  "homepage": "https://svkndeveloper.github.io/bookshelf",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /bookshelf-js-teamproject/"
+    "build": "parcel build src/*.html --public-url /bookshelf/"
   },
   "repository": {
     "type": "git",
